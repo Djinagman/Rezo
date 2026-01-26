@@ -1,0 +1,120 @@
+REZO INFÒMATIK
+Rezo infòmatik itilize pou plizyè òdinatè ka
+kominike ansanm.
+
+REZO AN ETWAL 
+Rezo an etwal: Se lè plizyè aparèy(Enprimant,
+Òdinatè) konekte nan yon pwen sanpwal(Switch ,
+routè). 
+-Pwen enpòtan 
+ .Si yon aparèy tonbe anpan lòt yo ap toujou
+  fonksyone
+ .Si switch oubyen routè a tonbe anpan tout rezo
+  a tonbe
+ .Fasil a depane
+ 
+REZO AN BUS
+Lè tout aparèy yo konekte sou yon sèl kab(BUS).
+-Pwen enpòtan
+ .Prèske pa itilize ankò 
+ .Si kab la gen problèm rezo a ap tonbe 
+ 
+REZO ANO
+Aparèy yo konekte sèk fème chak aparèy gan 2
+koneksyon yonn se antre lòt la se sòti.
+-Pwen enpòtan 
+ .Done yo tounen nan yon sèl sans oubyen nan tou
+  2
+ .Si yonn nan òdinatè yo tonbe rezo a tou kwit 
+ .Pa itilize ankò se plis pou machin ansyen yo 
+ 
+REZO IBRID
+Se lè yo itilize plizyè tip de rezo ansanm pa
+egzanp rezo an bus avèk rezo an etwal.
+
+REZO AN GRIY
+Se lè chak grenn òdinatè konekte ak tout lòt yo 
+-Pwen enpòtan 
+ .Si yon chemen pa mache lap itilize yon lòt
+ .Li pi efikas pou pa gen problèm 
+ .Li koute chè 
+ 
+REZO TOROÏDAL
+Pèmèt rezo a rete pi stab(map pote plis
+eksplikasyon)
+
+REZO SOU FÒM PYEBWA
+Nan rezo sa li reprezante sou fòm branch yon
+pyebwa.
+-Pwen enpòtan 
+ .Gen yon nœud prensipal ki konekte aparèy yo li
+  rele rezo
+ .Nan nœud prensipal sa gen plizyè branch ki fèt
+  ladann
+ .Nan chak nœud gen plizyè sous nœud
+ .Fasil a jere 
+ .Si nœud prensipal la tonbe rezo a ap plante
+ 
+
+
+PROTOKÒL KOMINIKASYON 
+Protokòl kominikasyon yo defini kòman
+enfòmasyon yo dwe echanje.
+
+PROTOKÒL IP
+Adrès ip(Protokòl ip) se adrès wifi oubyen rezo
+mobil ou ba ou lèw konekte sou entènèt. Pou pi
+senp nou ka di se adrés livrezon done sou
+entènèt la.
+
+PROTOKÒL UDP , TCP 
+UDP Pèmèt ou fè transfè done yo men san garanti
+ke yap rive jwenn destinatè a.
+
+TCP Pèmèt ou fè transfè done yo avèk asirans ke
+reseptè a jwenn yon notifikasyon ke li
+resevwal.
+
+
+SOCKET
+Sockèt se yon zouti ou jwenn nan tout òdinatè.
+li fè pati lojisyèl la , avèk li ou ka konekte
+plizyè òdinatè ansanm pou yon kominikasyon pa
+mesaj, apèl , apèl videyo etc. pou sa ka posib 
+wap bezwen itilize yon langaj enfòmatik egzanp 
+Python , Java , C# , C++ etc.
+
+Pouw kreye yon socket avèk yon langaj enfòmatik
+wap bezwen kreye yon serveur ki pou pèmèt
+kliyan ki pral konekte yo kominike antre yo
+
+
+REZO AVÈK Python
+Ou kapab fè yon rezo kominikasyon avèk python
+gras ak yon modil li genyen ki rele socket 
+avèk modil sa ou ka kreye yon aplikasyon web
+ki pèmèt plizyè itilizatè kominike ansanm 
+
+
+
+info: Pou plizyè itilizatè ka kominike ansanm 
+      nou oblije rann procesus la asynchrone
+      
+info: Ethernet itilize pou pataje entènèt ,        dosye ak lòt info pa kab ethernet.
+
+info: Routeur se yon aparèy pèmèt ou konekte       plizyè òdinatè ansanm pa kab ethernet        pataje wifi pa kab ou san fil(wifi).
+
+info: Commutateur reseaux(switch Ethernet)         Pèmèt ou konekte plizyè òdinatè ansanm       epi jere kèk kontrent nan koneksyon yo.
+
+info: Commutateur telephonique se yon sistèm ki     jere apèl nan rezo telfòn yo.
+
+info: GSM(Global sysytem for mobile                communications) Se teknoloji mondyal pou     rezo mobil li jere kominikasyon(Apèl ,       sms ak entènèt).
+
+info: Intranet yon Rezo itilize pa yon antrepriz pou pataj dosye oubyen lòt done sèlman anndan antrepriz la an lokal.
+
+info: Extranet yon rezo ki restrent men li bay     kèk moun enpòtan dwa pou yo konekte sou      li.   
+      Pou fè kout rezo extranèt la ka itilize
+      andeyò yon antrepriz men ak moun enpòtan
+      yo.
+      
+info: Rezo an etwal la se li ki plis itilize       kounya lòt yo obsolèt kounya.
