@@ -110,9 +110,10 @@ info: Commutateur telephonique se yon sistèm ki     jere apèl nan rezo telfòn
 
 info: GSM(Global sysytem for mobile                communications) Se teknoloji mondyal pou     rezo mobil li jere kominikasyon(Apèl ,       sms ak entènèt).
 
-info: Intranet yon Rezo itilize pa yon antrepriz pou pataj dosye oubyen lòt done sèlman anndan antrepriz la an lokal.
+info: Intranet yon Rezo itilize pa yon             antrepriz pou pataj dosye oubyen lòt done     sèlman anndan antrepriz la an lokal.
 
-info: Extranet yon rezo ki restrent men li bay     kèk moun enpòtan dwa pou yo konekte sou      li.   
+info: Extranet yon rezo ki restrent men li bay     kèk moun enpòtan dwa pou yo konekte sou      li.
+
       Pou fè kout rezo extranèt la ka itilize
       andeyò yon antrepriz men ak moun enpòtan
       yo.
